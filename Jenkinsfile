@@ -1,4 +1,4 @@
-ilpipeline {
+pilpipeline {
     agent any
 
     stages {
